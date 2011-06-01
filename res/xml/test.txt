@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root id="root"  parent="princeton" label="164" property="Door"  geoLat="42.96155" geoLon="-78.81775">
+	<Princeton_Ave id="princeton" parent="princeton" label="164" property="Door"  geoLat="42.96155" geoLon="-78.81775">
+		<building id="princeton_164" parent="princeton" label="164" property="Door"  geoLat="42.96155" geoLon="-78.81775">
+		
+			<floor id="princeton_164_floor1" parent="princeton_164" label="1st Floor" property="Door"  geoLat="42.96128" geoLon="-78.81782">
+			
+				<apartment id="princeton_164_floor1_apt1" parent="princeton_164_floor1" label="1" property="Door" geoLat="42.96154" geoLon="-78.81791">
+				</apartment>
+				<apartment id="princeton_164_floor1_apt2" parent="princeton_164_floor1" label="2" property="Door" geoLat="42.96159" geoLon="-78.81786" >
+				</apartment>
+				<text id="princeton_164_floor1_txt1" parent="princeton_164" label="M" property="Mail" geoLat="42.96157" geoLon="-78.81783" />
+		
+			</floor>
+			<floor id="princeton_164_floor2" parent="princeton_164" label="2nd Floor" property="Door"  geoLat="42.96138" geoLon="-78.81782">
+				<apartment id="princeton_164_floor2_apt2" parent="princeton_164_floor2" label="3" property="Door" geoLat="42.96154" geoLon="-78.81788">
+				</apartment>
+				<apartment id="princeton_164_floor2_apt3" parent="princeton_164_floor2" label="4" property="Door" geoLat="42.96158" geoLon="-78.81786">
+				</apartment>
+			</floor>
+			<floor id="princeton_164_base" parent="princeton_164" label="Basement" property="Door"  geoLat="42.96148" geoLon="-78.81782">
+				<apartment id="princeton_164_floor2_apt3" parent="princeton_164_base" label="B"  property="Door" geoLat="42.96150" geoLon="	-78.81786">
+				</apartment>
+			</floor>
+			<floor id="princeton_164_f3" parent="princeton_164" label="3rd Floor" property="Door"  geoLat="42.96148" geoLon="-78.81782">
+				<apartment id="princeton_164_floor2_apt3" parent="princeton_164_base" label="B"  property="Door" geoLat="42.96150" geoLon="	-78.81786">
+				</apartment>
+			</floor>
+			<floor id="princeton_164_f4" parent="princeton_164" label="4th Floor" property="Door"  geoLat="42.96148" geoLon="-78.81782">
+				<apartment id="princeton_164_floor2_apt3" parent="princeton_164_base" label="B"  property="Door" geoLat="42.96150" geoLon="	-78.81786">
+				</apartment>
+			</floor>	
+			<floor id="princeton_164_f5" parent="princeton_164" label="5th Floor" property="Door"  geoLat="42.96148" geoLon="-78.81782">
+				<apartment id="princeton_164_floor2_apt3" parent="princeton_164_base" label="B"  property="Door" geoLat="42.96150" geoLon="	-78.81786">
+				</apartment>
+			</floor>
+			<floor id="princeton_164_f6" parent="princeton_164" label="6th Floor" property="Door"  geoLat="42.96148" geoLon="-78.81782">
+				<apartment id="princeton_164_floor2_apt3" parent="princeton_164_base" label="B"  property="Door" geoLat="42.96150" geoLon="	-78.81786">
+				</apartment>
+			</floor>
+			<floor id="princeton_164_f7" parent="princeton_164" label="7th Floor" property="Door"  geoLat="42.96148" geoLon="-78.81782">
+				<apartment id="princeton_164_floor2_apt3" parent="princeton_164_base" label="B"  property="Door" geoLat="42.96150" geoLon="	-78.81786">
+				</apartment>
+			</floor>
+		</building>
+	
+		<building id="princeton_165" parent="princeton" label="165" property="Door" geoLat="42.96196" geoLon="-78.81719">
+			
+			<floor id="princeton_165_floor1" parent="princeton_165" label="1st Floor" property="Door"  geoLat="42.96128" geoLon="-78.81782">
+			
+				<apartment id="princeton_165_floor1_apt1" parent="princeton_165_floor1" label="1" property="Door" geoLat="42.96199" geoLon="-78.81711">
+				</apartment>
+				<apartment id="princeton_165_floor1_apt2" parent="princeton_165_floor1" label="2" property="Door" geoLat="42.96193" geoLon="-78.81710" >
+				</apartment>
+				<text id="princeton_165_floor1_txt1" parent="princeton_165" label="M" property="Mail" geoLat="42.96198" geoLon="-78.81715" />
+		
+			</floor>
+			<floor id="princeton_165_floor2" parent="princeton_165" label="2nd Floor" property="Door"  geoLat="42.96199" geoLon="-78.81711">
+				<apartment id="princeton_165_floor2_apt2" parent="princeton_165_floor2" label="3" property="Door" geoLat="42.96199" geoLon="-78.81711">
+				</apartment>
+				<apartment id="princeton_165_floor2_apt3" parent="princeton_165_floor2" label="4" property="Door" geoLat="42.96193" geoLon="-78.81710">
+				</apartment>
+			</floor>
+			<floor id="princeton_165_base" parent="princeton_165" label="Basement" property="Door"  geoLat="42.96148" geoLon="-78.81782">
+				<apartment id="princeton_165_floor2_apt3" parent="princeton_165_base" label="B"  property="Door" geoLat="42.96199" geoLon="	-78.81714">
+				</apartment>
+			</floor>
+			
+			<floor id="princeton_165_base" parent="princeton_165" label="test1" property="Door"  geoLat="42.96148" geoLon="-78.81782">
+				<apartment id="princeton_165_floor2_apt3" parent="princeton_165_base" label="B"  property="Door" geoLat="42.96199" geoLon="	-78.81714">
+				</apartment>
+			</floor>
+			<floor id="princeton_165_base" parent="princeton_165" label="test2" property="Door"  geoLat="42.96148" geoLon="-78.81782">
+				<apartment id="princeton_165_floor2_apt3" parent="princeton_165_base" label="B"  property="Door" geoLat="42.96199" geoLon="	-78.81714">
+				</apartment>
+			</floor>
+			<floor id="princeton_165_base" parent="princeton_165" label="test3" property="Door"  geoLat="42.96148" geoLon="-78.81782">
+				<apartment id="princeton_165_floor2_apt3" parent="princeton_165_base" label="B"  property="Door" geoLat="42.96199" geoLon="	-78.81714">
+				</apartment>
+			</floor>
+			<floor id="princeton_165_base" parent="princeton_165" label="test4" property="Door"  geoLat="42.96148" geoLon="-78.81782">
+				<apartment id="princeton_165_floor2_apt3" parent="princeton_165_base" label="B"  property="Door" geoLat="42.96199" geoLon="	-78.81714">
+				</apartment>
+			</floor>
+			
+		</building>
+	
+		<building id="princeton_168" parent="princeton" label="168" property="Door" geoLat="42.96204" geoLon="-78.81787">
+				<floor id="princeton_168_floor1" parent="princeton_168" label="1st Floor" property="Door"  geoLat="42.96128" geoLon="-78.81782">
+			
+				<apartment id="princeton_168_floor1_apt1" parent="princeton_168_floor1" label="1" property="Door" geoLat="42.96200" geoLon="-78.81783">
+				</apartment>
+				<apartment id="princeton_168_floor1_apt2" parent="princeton_168_floor1" label="2" property="Door" geoLat="42.96199" geoLon="-78.81776" >
+				</apartment>
+				<text id="princeton_168_floor1_txt1" parent="princeton_168" label="M" property="Mail" geoLat="42.96202" geoLon="-78.81781" />
+		
+			</floor>
+			<floor id="princeton_168_floor2" parent="princeton_168" label="2nd Floor" property="Door"  geoLat="42.96138" geoLon="-78.81782">
+				<apartment id="princeton_168_floor2_apt2" parent="princeton_168_floor2" label="3" property="Door" geoLat="42.96200" geoLon="-78.81783">
+				</apartment>
+				<apartment id="princeton_168_floor2_apt3" parent="princeton_168_floor2" label="4" property="Door" geoLat="42.96199" geoLon="-78.81776">
+				</apartment>
+			</floor>
+			<floor id="princeton_168_base" parent="princeton_168" label="Basement" property="Door"  geoLat="42.96148" geoLon="-78.81782">
+				<apartment id="princeton_168_floor2_apt3" parent="princeton_168_base" label="B"  property="Door" geoLat="42.96200" geoLon="-78.81780">
+				</apartment>
+			</floor>
+			
+				
+		</building>
+		
+		<building id="princeton_172" parent="princeton" label="172" property="Door" geoLat="42.96211" geoLon="-78.81803">
+				<floor id="princeton_172_floor1" parent="princeton_172" label="1st Floor" property="Door"  geoLat="42.96128" geoLon="-78.81782">
+			
+				<apartment id="princeton_172_floor1_apt1" parent="princeton_172_floor1" label="1" property="Door" geoLat="42.96205" geoLon="-78.81799">
+				</apartment>
+				<apartment id="princeton_172_floor1_apt2" parent="princeton_172_floor1" label="2" property="Door" geoLat="42.96208" geoLon="-78.81807" >
+				</apartment>
+				<text id="princeton_172_floor1_txt1" parent="princeton_172" label="M" property="Mail" geoLat="42.96207" geoLon="-78.81802" />
+		
+			</floor>
+			<floor id="princeton_172_floor2" parent="princeton_172" label="2nd Floor" property="Door"  geoLat="42.96138" geoLon="-78.81782">
+				<apartment id="princeton_172_floor2_apt2" parent="princeton_172_floor2" label="3" property="Door" geoLat="42.96205" geoLon="-78.81799">
+				</apartment>
+				<apartment id="princeton_172_floor2_apt3" parent="princeton_172_floor2" label="4" property="Door" geoLat="42.96208" geoLon="-78.81807">
+				</apartment>
+			</floor>
+			<floor id="princeton_172_base" parent="princeton_172" label="Basement" property="Door"  geoLat="42.96148" geoLon="-78.81782">
+				<apartment id="princeton_172_floor2_apt3" parent="princeton_172_base" label="B" property="Door" geoLat="42.96206" geoLon="-78.81803">
+				</apartment>
+			</floor>
+		
+		
+		</building>
+		
+	</Princeton_Ave>
+
+</root>

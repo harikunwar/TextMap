@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+			android:id="@+id/home_container"  
+			android:layout_width="fill_parent" 
+			android:layout_height="fill_parent">
+
+
+	
+	<com.google.android.maps.MapView
+		android:id="@+id/map1" 
+ 	    android:layout_width="fill_parent"
+     	android:layout_height="fill_parent" 
+		android:enabled="true" 
+		android:clickable="true"             
+		android:apiKey="0ozzNO-gFVmrwYQutBawG4kav_9wRlbemn_0h4w" 
+	/>
+	
+	<LinearLayout  	xmlns:android="http://schemas.android.com/apk/res/android" 
+	android:id="@+id/top"
+	android:layout_width="fill_parent" 
+	android:layout_height="fill_parent"
+	android:orientation="vertical"
+	android:gravity="top"
+	android:paddingLeft="5px"
+	android:paddingTop="5px"
+	android:paddingRight="5px">
+	
+		<ToggleButton
+		   	android:id="@+id/searchImg"
+		  	android:src="@drawable/search" 
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:paddingLeft="5px"
+			android:paddingTop="5px"
+			android:paddingRight="5px"
+	    />		
+				
+		<com.textmap.TransparentPanel 
+		android:id="@+id/transparent_panel_top" 
+		android:visibility="invisible"
+	    android:layout_width="fill_parent"
+	   	android:layout_height="wrap_content"
+	   	android:paddingTop="5px"
+	   	android:paddingLeft="5px"
+		android:paddingBottom="5px"
+		android:paddingRight="5px">
+			
+			<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+			    android:id="@+id/search"
+			    android:visibility="invisible"
+			    android:orientation="horizontal"
+			    android:layout_width="fill_parent" 
+			    android:layout_height="wrap_content"
+			    
+			    android:padding="5dp">
+			</LinearLayout>
+			        
+		</com.textmap.TransparentPanel>
+	</LinearLayout>
+		
+	
+	
+	<LinearLayout  	xmlns:android="http://schemas.android.com/apk/res/android" 
+	android:id="@+id/bottom"
+   	android:layout_width="fill_parent" 
+	android:layout_height="fill_parent"
+	android:orientation="vertical"
+	android:gravity="bottom"
+	android:paddingLeft="5px"
+	android:paddingTop="5px"
+	android:paddingRight="5px">
+								
+	
+		<com.textmap.TransparentPanel 
+		android:id="@+id/bt_panel" 
+		android:visibility="invisible"
+	    android:layout_width="wrap_content"
+	   	android:layout_height="wrap_content"
+	   	android:paddingTop="5px"
+	   	android:paddingLeft="5px"
+		android:paddingBottom="5px"
+		android:paddingRight="5px">
+	
+			<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+				android:id="@+id/fmenu"
+				android:layout_width="wrap_content" 
+		        android:layout_height="wrap_content"
+			>
+			</LinearLayout>
+	
+		</com.textmap.TransparentPanel>
+	</LinearLayout>
+
+
+
+<LinearLayout android:id="@+id/LinearLayout01"
+android:gravity="bottom"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<HorizontalScrollView  
+	android:id="@+id/ScrollView01"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content">
+		
+	<com.textmap.TransparentPanel 
+		android:id="@+id/bpanel" 
+		android:visibility="invisible"
+	    android:layout_width="wrap_content"
+	   	android:layout_height="wrap_content"
+	   	android:paddingTop="5px"
+	   	android:paddingLeft="5px"
+		android:paddingBottom="5px"
+		android:paddingRight="5px">
+		
+		
+		<ToggleButton 
+		 android:layout_height="wrap_content" 
+		 android:id="@+id/bttFav"
+		 android:layout_width="wrap_content" 
+		 android:textOff="*" 
+		 android:textOn="*" 
+		 android:textSize="22dip">
+		 </ToggleButton>
+		
+		<ToggleButton 
+		 android:layout_height="wrap_content" 
+		 android:id="@+id/bttFav"
+		 android:layout_width="wrap_content" 
+		 android:textOff="*" 
+		 android:textOn="*" 
+		 android:textSize="22dip">
+		 </ToggleButton>
+		
+		<ToggleButton 
+		 android:layout_height="wrap_content" 
+		 android:id="@+id/bttFav"
+		 android:layout_width="wrap_content" 
+		 android:textOff="*" 
+		 android:textOn="*" 
+		 android:textSize="22dip">
+		 </ToggleButton>
+			
+		
+	</com.textmap.TransparentPanel>
+		
+	</HorizontalScrollView >
+</LinearLayout>
+	
+</FrameLayout>

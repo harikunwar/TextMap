@@ -1,0 +1,38 @@
+
+<root>
+
+<Princeton_Ave>
+	<building label="164" geoLat="" geoLon="" >
+		<text label="" geoLat="" geoLon="" />
+		<text label="" geoLat="" geoLon="" />
+		<text label="" geoLat="" geoLon="" />
+		<door label="" geoLat="" geoLon="" /> 
+		<door label="" geoLat="" geoLon="" />
+		<door label="" geoLat="" geoLon="" />
+		<apartment label="" geoLat="" geoLon="">
+			<text label="" geoLat="" geoLon="" />
+			<text label="" geoLat="" geoLon="" />
+			<text label="" geoLat="" geoLon="" />
+		</apartment>
+	</building>
+
+	<building label="165">
+		<text label="" geoLat="" geoLon="" />
+		<text label="" geoLat="" geoLon="" />
+		<text label="" geoLat="" geoLon="" />
+		<door label="" geoLat="" geoLon="" /> 
+		<door label="" geoLat="" geoLon="" />
+		<door label="" geoLat="" geoLon="" />
+	
+		<apartment label="" geoLat="" geoLon="">
+			<text label="" geoLat="" geoLon="" />
+			<text label="" geoLat="" geoLon="" />
+			<text label="" geoLat="" geoLon="" />
+		</apartment>
+	</building>
+</Princeton_Ave>
+
+</root>
+
+
+

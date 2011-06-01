@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, TextMap!</string>
+    <string name="app_name">TextMap1.1</string>
+    <string name="tag1">tag1</string>
+    <string name="tag2">tag2</string>
+    <string name="tag3">tag3</string>
+    
+    
+    
+</resources>
